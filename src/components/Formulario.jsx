@@ -87,7 +87,7 @@ const Formulario = ({ handleFormError }) => {
         </FloatingLabel>
 
         <Button type="submit" variant="success">
-          Success
+          Registrarse
         </Button>
       </form>
     </>
